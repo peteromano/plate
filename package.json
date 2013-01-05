@@ -1,6 +1,6 @@
 {
     "name": "plate",
-    "version": "1.0.2",
+    "version": "1.0.5",
     "description": "Jam package for Plate Django templating language",
     "jam": {
         "main": "lib/plate.min.js",
